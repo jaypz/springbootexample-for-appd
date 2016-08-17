@@ -1,0 +1,5 @@
+to run
+
+mvn clean install
+
+java -jar target/springboot-appd-test-0.1.0.jar
